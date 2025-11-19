@@ -10,6 +10,23 @@ include_in_header: true
 
 ### `Latest`
 
+# **Version 25.11**
+
+#### What's New
+- Fixed issues with renaming.
+- Improved project list popups.
+- Added a "Save and Add Next" button.
+- Added completion date display.
+- Fixed sorting for completed items.
+- Added a context menu to the tasks list for focusing.
+- Removed the refresh button.
+- Added an App Store review request prompt.
+- Added a focus timer for watchOS.
+- Fixed an issue where projects were created as simple lists on iOS.
+- Fixed section list resizing.
+- Added AI localization for Catalan and Norwegian.
+
+
 # **Version 1.6**
 Fixes and improvements
 
