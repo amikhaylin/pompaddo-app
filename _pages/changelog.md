@@ -10,6 +10,15 @@ include_in_header: true
 
 ### `Latest`
 
+# **Version 25.12**
+
+#### What's New
+- Introduced a new Deadline field and Deadlines list.
+- Improved focus management: clearing selection when a task changes status.
+- Replaced popovers with sheets for better usability.
+- Enhanced the "Add Task" dialog for a smoother experience.
+- Updated deletion to move items to trash instead of permanent removal.
+
 # **Version 25.11**
 
 #### What's New
