@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  :                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : personal task manager / planner app for iOS and macOS
+app_description                           : personal task manager / planner app for iOS and macOS. PomPadDo combines three proven methods — GTD, Pomodoro, and Kanban — into one simple app to help you get everything done.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 

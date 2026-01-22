@@ -10,6 +10,13 @@ include_in_header: true
 
 ### `Latest`
 
+# **Version 26.1**
+
+#### What's New
+- Saving unfinished focus timer sessions to a task
+- Sync settings over iCloud for Focus timer, esimates, trash
+- Fixes and improvements
+
 # **Version 25.12**
 
 #### What's New
