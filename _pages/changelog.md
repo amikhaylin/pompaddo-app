@@ -10,6 +10,12 @@ include_in_header: true
 
 ### `Latest`
 
+# **Version 26.2**
+
+#### What's New
+- Share extension for iOS (Safari)
+- Fixes and improvements
+
 # **Version 26.1**
 
 #### What's New
