@@ -10,6 +10,13 @@ include_in_header: true
 
 ### `Latest`
 
+# **Version 26.4**
+
+#### What's New
+- Design with Liquid Glass
+- Project groups in the context menu
+- Fixes and improvements
+
 # **Version 26.2**
 
 #### What's New
